@@ -70,10 +70,6 @@ class FoodCard extends StatelessWidget {
                             '4.5',
 
 
-
-
-
-
                             style: TextStyle(
                               fontSize: 12,
                               fontWeight: FontWeight.bold,
