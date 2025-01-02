@@ -60,6 +60,7 @@ class FoodCard extends StatelessWidget {
                       padding: EdgeInsets.symmetric(horizontal: 8, vertical: 4),
                       decoration: BoxDecoration(
                         color: Colors.white,
+
                         borderRadius: BorderRadius.circular(16),
                       ),
                       child: Row(
@@ -67,7 +68,7 @@ class FoodCard extends StatelessWidget {
                           Icon(Icons.star, size: 16, color: Colors.orange),
                           SizedBox(width: 4),
                           Text(
-                            '4.5',
+                            '8.9',
 
 
                             style: TextStyle(
